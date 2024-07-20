@@ -18,4 +18,4 @@ Caso tenha alguma dúvida, sinta-se a vontade para me perguntar! Minhas redes so
 Obrigado por visitar!
 
 ---
-🌠 Check my [portifolio](arthur-6.github.io)! / Veja meu [portifolio](arthur-6.github.io)!
+🌠 Check my [portifolio](https://arthur-6.github.io/)! / Veja meu [portifolio](https://arthur-6.github.io/)!
