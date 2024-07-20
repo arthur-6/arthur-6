@@ -8,11 +8,6 @@ If you have any doubts, feel free to ask me! My social media is in my bio. 🫂
 
 Thanks for visiting!
 
-✨ Currently studying:
-* Kubernetes
-* Scala
-* Kafka
-
 ### PT-BR 🇧🇷
 Meu nome é Arthur e trabalho como Data Engineering Analyst na Brazil Monks! \
 Tenho 24 anos e sou torcedor fanático do Clube Atlético Mineiro! 🖤🤍 \
@@ -21,8 +16,3 @@ Uso meu GitHub principalmente para hospedar repositórios de estudos e projetos 
 Caso tenha alguma dúvida, sinta-se a vontade para me perguntar! Minhas redes sociais estão na minha bio. 🫂
 
 Obrigado por visitar!
-
-✨ Estou atualmente estudando:
-* Kubernetes
-* Scala
-* Kafka
