@@ -1,6 +1,6 @@
 ## Oi! 👋
 ### EN 🇬🇧🇺🇸
-My name's Arthur, I am a 24yo brazilian and currently working as a Data Engineer @ Data Guidance. \
+My name's Arthur, I am a 24yo brazilian and I currently work as a Data Engineer @ Data Guidance. \
 I have a degree in computer engineering from PUC Minas. Also a passionate Clube Atletico Mineiro fan. 🖤🤍 \ \
 My GitHub is used mainly to host my studies and personal project repositories. \
 If you have any doubts, feel free to ask me! My social media is in my bio. 🫂
